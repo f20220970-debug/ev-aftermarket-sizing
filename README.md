@@ -9,10 +9,8 @@ electric two-wheelers (E2Ws), how fast will it grow to FY31, and where could an 
 - **Memo:** [`reports/case_memo.md`](reports/case_memo.md), a one-page summary.
 
 ## Key results
-- Base case: Rs 869 Cr in FY26, rising to about Rs 5,627 Cr by FY31 (45% a year); Rs 3,622-8,156 Cr across bear and bull.
-- Growth comes from the fleet in use (4.4 million E2Ws in FY26 to about 16 million in FY31), and a battery-replacement wave from FY28 makes up a third of the FY31 market.
-- Spend per vehicle moves the answer more than sales growth: Rs 2,000 to 4,000 changes FY31 by Rs 2,200-3,000 Cr, while 10% to 30% growth changes it by Rs 800-1,600 Cr.
-- Where to play: independent garages could address about Rs 1,400 Cr by FY31; battery diagnostics and refurbishment and fleet contracts are the strongest entry points.
+_Fill in after reviewing: FY26 and FY31 size, scenario range, what drives it, where to play._
+
 ## Approach
 Bottom-up: E2W sales by year (Vahan-based sources) → fleet in use after scrappage → vehicles past their free first year ×
 annual service and wear-parts spend, plus battery replacements as each year's sales reach replacement age. Spend per vehicle
